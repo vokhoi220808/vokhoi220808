@@ -331,7 +331,11 @@ That is why every project should be reviewed, tested, and improved before real u
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vokhoi220808&theme=tokyo-night&hide_border=true&radius=16&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vokhoi220808/vokhoi220808/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vokhoi220808/vokhoi220808/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/vokhoi220808/vokhoi220808/output/github-snake.svg" />
+</picture>
 
 </div>
 
